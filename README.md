@@ -2,9 +2,19 @@
 
 ### Network and Security Engineer + Developer 
 
-- 🔭 I'm currently working on **React Native Project**
-- 🌱 I'm currently learning **Full Stack**
+- 🔭 I'm currently working on **React Native projects**
+- 🌱 I'm currently learning **Full Stack Development**
 - 📫 How to reach me: **abdullamatter3@gmail.com**
+
+---
+
+### Projects
+
+**Tasheel – Digital Services Concept (Side Project)**  
+- Personal startup concept offering digital services for small businesses  
+- Designed service structure and branding  
+- Launched a simple landing page using Carrd  
+- 🌐 Live: https://abdullamattar.github.io/Tasheel/
 
 ---
 
