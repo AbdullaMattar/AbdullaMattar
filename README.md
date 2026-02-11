@@ -13,7 +13,7 @@
 **Tasheel – Digital Services Concept (Side Project)**  
 - Personal startup concept offering digital services for small businesses  
 - Designed service structure and branding  
-- Launched a simple landing page using Carrd  
+- Launched a simple landing page 
 - 🌐 Live: https://abdullamattar.github.io/Tasheel/
 
 ---
